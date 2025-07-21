@@ -1,4 +1,4 @@
-# Power BI in Action: Unlocking Customer Insights Through Demographics and Behavior
+# "From Data to Decisions: How Power BI Unlocks UK Customer Insights Through Demographics and Behavior"
 
 
 
